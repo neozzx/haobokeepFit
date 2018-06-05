@@ -15,6 +15,10 @@
 		6178500820C6CBE700A408F2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6178500720C6CBE700A408F2 /* main.m */; };
 		6178501220C6CBE700A408F2 /* haobokeepFitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6178501120C6CBE700A408F2 /* haobokeepFitTests.m */; };
 		6178501D20C6CBE700A408F2 /* haobokeepFitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6178501C20C6CBE700A408F2 /* haobokeepFitUITests.m */; };
+		6178502E20C6CC2300A408F2 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 6178502A20C6CC2300A408F2 /* 4.png */; };
+		6178502F20C6CC2300A408F2 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6178502B20C6CC2300A408F2 /* 2.png */; };
+		6178503020C6CC2300A408F2 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 6178502C20C6CC2300A408F2 /* 3.png */; };
+		6178503120C6CC2300A408F2 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 6178502D20C6CC2300A408F2 /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +55,10 @@
 		6178501820C6CBE700A408F2 /* haobokeepFitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = haobokeepFitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6178501C20C6CBE700A408F2 /* haobokeepFitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = haobokeepFitUITests.m; sourceTree = "<group>"; };
 		6178501E20C6CBE700A408F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6178502A20C6CC2300A408F2 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		6178502B20C6CC2300A408F2 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		6178502C20C6CC2300A408F2 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		6178502D20C6CC2300A408F2 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +111,10 @@
 			children = (
 				61784FF820C6CBE600A408F2 /* AppDelegate.h */,
 				61784FF920C6CBE600A408F2 /* AppDelegate.m */,
+				6178502D20C6CC2300A408F2 /* 1.png */,
+				6178502B20C6CC2300A408F2 /* 2.png */,
+				6178502C20C6CC2300A408F2 /* 3.png */,
+				6178502A20C6CC2300A408F2 /* 4.png */,
 				61784FFB20C6CBE600A408F2 /* ViewController.h */,
 				61784FFC20C6CBE600A408F2 /* ViewController.m */,
 				61784FFE20C6CBE600A408F2 /* Main.storyboard */,
@@ -235,9 +247,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6178502F20C6CC2300A408F2 /* 2.png in Resources */,
 				6178500520C6CBE700A408F2 /* LaunchScreen.storyboard in Resources */,
 				6178500220C6CBE700A408F2 /* Assets.xcassets in Resources */,
+				6178503020C6CC2300A408F2 /* 3.png in Resources */,
+				6178502E20C6CC2300A408F2 /* 4.png in Resources */,
 				6178500020C6CBE600A408F2 /* Main.storyboard in Resources */,
+				6178503120C6CC2300A408F2 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
